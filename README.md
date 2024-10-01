@@ -40,7 +40,7 @@ MS Excel, MS Powerpoint and PowerBI were properly installed and used
 
 ### ANALYSIS
 ---
-The Data was gathered, clean and explored turning it into a beautiful visualization
+The Data was gathered, cleaned and explored turning it into a beautiful visualization
 
 ### RESULTS AND INSIGHTS
 ---
