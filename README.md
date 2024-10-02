@@ -44,7 +44,7 @@ The Data was gathered, cleaned and explored turning it into a beautiful visualiz
 
 ### VISUALIZATION
 ---
-![Screenshot 2024-09-27 142215](https://github.com/user-attachments/assets/3c7d71cd-413f-4c28-91ce-3374a7c245e2)
+![Screenshot 2024-09-27 142246](https://github.com/user-attachments/assets/c13d014c-2f52-4034-a108-9868f6c59756)
 
 ### RESULTS AND INSIGHTS
 ---
