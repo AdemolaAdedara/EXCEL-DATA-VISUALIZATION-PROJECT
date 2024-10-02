@@ -38,9 +38,13 @@ MS Excel, MS Powerpoint and PowerBI were properly installed and used
 
   a) For Data Visualization
 
-### ANALYSIS
+### ANALYSIS PROCESS
 ---
 The Data was gathered, cleaned and explored turning it into a beautiful visualization
+
+### VISUALIZATION
+---
+![Screenshot 2024-09-27 142215](https://github.com/user-attachments/assets/3c7d71cd-413f-4c28-91ce-3374a7c245e2)
 
 ### RESULTS AND INSIGHTS
 ---
