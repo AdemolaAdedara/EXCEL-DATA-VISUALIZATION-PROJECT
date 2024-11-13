@@ -20,12 +20,13 @@ Lets uncover insights into the world of Demmy Company Limited
 
 ### DATA SOURCES
 ---
+The Data was gotten from [Download Here](https://github.com/AdemolaAdedara/EXCEL-DATA-VISUALIZATION-PROJECT/blob/main/Try%20Outs%20Visualization.xlsx)
 
 ---
 
 ### INSTALLATIONS
 ---
-MS Excel, MS Powerpoint and PowerBI were properly installed and used 
+MS Excel, MS Powerpoint and PowerBI were properly installed and used
 
 ---
 
