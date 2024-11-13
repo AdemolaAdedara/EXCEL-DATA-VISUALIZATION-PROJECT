@@ -16,15 +16,21 @@ Welcome to the analysis of Demmy Company Limited dataset. This dataset explores 
   
 Lets uncover insights into the world of Demmy Company Limited
 
+---
+
 ### DATA SOURCES
 ---
 - i) MS Excel
 
 - ii) MS Powerpoint
 
+---
+
 ### INSTALLATIONS
 ---
 MS Excel, MS Powerpoint and PowerBI were properly installed and used 
+
+---
 
 ### TOOLS USED
 ---
@@ -38,13 +44,19 @@ MS Excel, MS Powerpoint and PowerBI were properly installed and used
 
   a) For Data Visualization
 
+---
+
 ### ANALYSIS PROCESS
 ---
 The Data was gathered, cleaned and explored turning it into a beautiful visualization
 
+---
+
 ### VISUALIZATION
 ---
 ![Screenshot 2024-09-27 142246](https://github.com/user-attachments/assets/c13d014c-2f52-4034-a108-9868f6c59756)
+
+---
 
 ### RESULTS AND INSIGHTS
 ---
@@ -59,6 +71,8 @@ The Data was gathered, cleaned and explored turning it into a beautiful visualiz
  - Employee Weight and Height: From the analysis we found out that the employees with fit body shape and tall were the top performers
 
  - Google and Amazon Sales: This shows the sales made from the company to both parties and Amazon always had the most sales
+
+---
 
 ### RECOMMENDATIONS
 ---
