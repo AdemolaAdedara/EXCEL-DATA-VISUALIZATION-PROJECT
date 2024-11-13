@@ -20,9 +20,6 @@ Lets uncover insights into the world of Demmy Company Limited
 
 ### DATA SOURCES
 ---
-- i) MS Excel
-
-- ii) MS Powerpoint
 
 ---
 
